@@ -1,3 +1,7 @@
+```
+Developed by: Santhosh P
+Register no: 24900693
+```
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -34,10 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-```
-Developed by: Santhosh P
-Register no: 24900693
-```
+
 ```
 module EX2 (a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
